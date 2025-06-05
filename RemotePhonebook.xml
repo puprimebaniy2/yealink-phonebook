@@ -2,9 +2,9 @@
 <xxxIPPhoneDirectory>
   <DirectoryEntry>
     <Name>Иван Иванов</Name>
-    <Telephone>1001</Telephone>
-    <Mobile>79123456789</Mobile>
-    <Other>2001</Other>
+    <office_number>1001</office_number>
+    <mobile_number>79123456789</mobile_number>
+    <other_number>2001</other_number>
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>Анна Петрова</Name>
