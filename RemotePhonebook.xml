@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xxxIPPhoneDirectory>
   <DirectoryEntry>
-    <Name>Иван Иванов</Name>
-    <Phone1>1001</Phone1>
-    <Phone2>79123456789</Phone2>
-    <Phone3>2001</Phone3>
+    <Name>Карев Д.С.</Name>
+    <Telephone>100</Telephone>
+    <Mobile>79123456789</Mobile>
+    <Other>200</Other>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Анна Петрова</Name>
-    <Telephone>1002</Telephone>
+    <Name>Бугаков А.В.</Name>
+    <Telephone>101</Telephone>
     <Mobile>79876543210</Mobile>
+    <Other>201</Other>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Сергей Сидоров</Name>
-    <Telephone>1003</Telephone>
+    <Name>Савельев П.Н.</Name>
+    <Telephone>103</Telephone>
+    <Mobile>79991234567</Mobile>
+    <Other>203</Other>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Гусева Марина</Name>
+    <Telephone>104</Telephone>
+    <Mobile></Mobile>
+    <Other></Other>
   </DirectoryEntry>
 </xxxIPPhoneDirectory>
