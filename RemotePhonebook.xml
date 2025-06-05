@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneBook>
   <Title>Yealink</Title>
-  <Menu Name="">
+  <Menu Name="Argus">
     <Unit Name="Карев Д.С." Phone1="100" Phone2="-" Phone3="-" default_photo="Resource:"/>
     <Unit Name="Бугаков А.В." Phone1="101" Phone2="-" Phone3="-" default_photo="Resource:"/>
     <Unit Name="Савельев П.Н." Phone1="103" Phone2="-" Phone3="-" default_photo="Resource:"/>
