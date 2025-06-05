@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="Argus">
+    <Unit Name="Карев Д.С." Phone1="100" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Бугаков А.В." Phone1="101" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Савельев П.Н." Phone1="103" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Гусева Марина" Phone1="104" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Бугакова Т.А." Phone1="105" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Носова Виктория" Phone1="106" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Бугакова И.В." Phone1="107" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Танеева Юлия" Phone1="108" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Матвеева Елена" Phone1="109" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Адуев Артур" Phone1="110" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Орлов Сергей" Phone1="111" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Безбородов Геннадий" Phone1="112" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Каленова Кристина" Phone1="115" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Горькова Полина" Phone1="116" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Казанджиди Александр" Phone1="118" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Попов Виктор" Phone1="127" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Сергеев Валентин" Phone1="128" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Калинин Денис" Phone1="129" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Кольпиков Илья" Phone1="130" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Парфенов Егор" Phone1="131" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Саханина Екатерина" Phone1="135" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Сидоров А.В." Phone1="140" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Палагин Иван" Phone1="141" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Аркус П.Ф." Phone1="142" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Антонов Вячеслав" Phone1="143" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Волков А.В." Phone1="150" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Козлов Алексей" Phone1="151" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Никитин/Зайцева" Phone1="160" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Саулин/Думнов" Phone1="161" Phone2="-" Phone3="-" default_photo="Resource:"/>
+    <Unit Name="Отдел продаж " Phone1="222" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Max Enterise 1000">
+    <Unit Name="" Phone1="" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>
