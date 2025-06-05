@@ -33,7 +33,4 @@
     <Unit Name="Саулин/Думнов" Phone1="161" Phone2="-" Phone3="-" default_photo="Resource:"/>
     <Unit Name="Отдел продаж " Phone1="222" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
-  <Menu Name="Max Enterise 1000">
-    <Unit Name="" Phone1="" Phone2="" Phone3="" default_photo="Resource:"/>
-  </Menu>
 </YealinkIPPhoneBook>
